@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace File_Date_Writer
+namespace Baxendale.FileDateWriter
 {
     static class Program
     {

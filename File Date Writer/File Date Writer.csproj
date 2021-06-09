@@ -8,7 +8,7 @@
     <ProjectGuid>{36312B51-F2BB-40CA-BCEC-94A76A60E389}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>File_Date_Writer</RootNamespace>
+    <RootNamespace>Baxendale.FileDateWriter</RootNamespace>
     <AssemblyName>File Date Writer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

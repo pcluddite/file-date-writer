@@ -1,4 +1,4 @@
-﻿namespace File_Date_Writer
+﻿namespace Baxendale.FileDateWriter
 {
     partial class MainForm
     {

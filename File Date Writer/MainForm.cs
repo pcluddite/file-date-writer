@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System.IO;
 
-namespace File_Date_Writer
+namespace Baxendale.FileDateWriter
 {
     public partial class MainForm : Form
     {
