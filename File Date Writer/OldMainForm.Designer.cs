@@ -1,6 +1,6 @@
 ﻿namespace Baxendale.FileDateWriter
 {
-    partial class MainForm
+    partial class OldMainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(OldMainForm));
             this.lblCreateTime = new System.Windows.Forms.Label();
             this.lblLastWrite = new System.Windows.Forms.Label();
             this.lblLastAccess = new System.Windows.Forms.Label();

@@ -4,9 +4,9 @@ using System.IO;
 
 namespace Baxendale.FileDateWriter
 {
-    public partial class MainForm : Form
+    public partial class OldMainForm : Form
     {
-        public MainForm(string path)
+        public OldMainForm(string path)
         {
             InitializeComponent();
             if (!string.IsNullOrEmpty(path))

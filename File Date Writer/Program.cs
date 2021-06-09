@@ -13,7 +13,7 @@ namespace Baxendale.FileDateWriter
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MainForm(args.Length > 0 ? args[0] : ""));
+            Application.Run(new OldMainForm(args.Length > 0 ? args[0] : ""));
         }
     }
 }
